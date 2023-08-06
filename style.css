@@ -1,0 +1,153 @@
+* {
+    background-color: rgb(235, 240, 245);
+}
+
+/* facebook text styling start here */
+
+.left-side-item h1 {
+    color: #166fe4;
+    font-size: 60px;
+    margin-bottom: 20px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.left-side-item p {
+    font-size: 30px;
+    margin-top: -6px;
+}
+
+.left-side-item {
+    margin-left: 200px;
+    margin-top: 190px;
+
+}
+
+/* facebook text styling start here */
+
+
+/* Form Styling Start here */
+
+.right-side-item {
+
+    width: 400px;
+    height: auto;
+    background-color: white;
+    box-shadow: 0px 2px 10px 1px rgba(71, 71, 71, 0.52);
+    padding: 10px;
+    margin-left: 752px;
+    margin-top: -245px;
+    border-radius: 5px;
+    box-sizing: border-box;
+    padding-bottom: 20px;
+    margin-bottom: 26px;
+
+}
+
+.right-side-item form {
+    background-color: white;
+}
+
+.right-side-item input {
+    padding: 13px;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    margin: 10px;
+    border-radius: 5px;
+    width: 320px;
+    background-color: white;
+    font-size: 20px;
+    outline: none;
+    border: 1px solid #cccccc;
+}
+
+.right-side-item input:hover {
+    cursor: pointer;
+}
+
+.right-side-item input:focus {
+    border: 1px solid #166fe4;
+
+}
+
+
+.border {
+    margin-top: 10px;
+    margin-bottom: 10px;
+    border: 1px solid #dadde1;
+}
+
+.right-side-item .login-btn {
+    border-radius: 5px;
+    width: 350px;
+    background-color: #166fe4;
+    font-size: 20px;
+    border: none;
+    outline: none;
+    margin: 10px;
+    padding: 13px;
+
+}
+
+.right-side-item .login-btn {
+    color: white;
+    font-weight: bold;
+}
+
+.right-side-item .login-btn:hover {
+    cursor: pointer;
+}
+
+.right-side-item a {
+    text-decoration: none;
+    margin-top: 5px;
+    margin-bottom: 20px;
+    display: block;
+    margin-left: 120px;
+    color: #166fe4;
+    background: none;
+
+}
+
+.right-side-item a:hover {
+    text-decoration: underline;
+}
+
+.account-btn {
+    color: white;
+    background-color: #36a420;
+    font-size: 18px;
+    border: none;
+    outline: none;
+    margin-top: 50px;
+    margin: 10px;
+    padding: 13px;
+    border-radius: 5px;
+    margin-left: 90px;
+}
+
+.account-btn:hover {
+    cursor: pointer;
+}
+
+/* Form Styling End here */
+
+
+/* text styling start here */
+
+.create-text {
+    margin-left: 397px;
+    background: none;
+    color: black;
+    text-decoration: none;
+}
+
+.create-text b {
+    background: none;
+}
+
+.create-text b:hover {
+    text-decoration: underline;
+}
+
+/* text styling End here */
